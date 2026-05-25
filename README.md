@@ -29,7 +29,7 @@ Combino la formación matemática y computacional de la **FES Acatlán (UNAM)** 
 - Desarrollo de organigramas dinámicos con D3.js, con búsqueda jerárquica y navegación del árbol institucional completo.
 - Administración de bases de datos institucionales (Excel, Google Sheets, CSV, JSON).
 
-**Jefatura de Implementación de Manuales Administrativos** (etapa previa, como ARTF)
+**Enlace de Implementación de Manuales Administrativos** (etapa previa, como ARTF)
 
 - Desarrollo y actualización de manuales de procedimientos institucionales.
 - Coordinación directa con todas las direcciones de la agencia, identificando atribuciones, funciones y procedimientos.
