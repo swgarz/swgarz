@@ -17,7 +17,7 @@ Combino la formación matemática y computacional de la **FES Acatlán (UNAM)** 
 
 ## Trayectoria
 
-### 🏛️ ATTRAPI · Agencia de Transformación Regulatoria del Transporte Ferroviario y Portuario
+### 🏛️ ATTRAPI · Agencia de Trenes y Transporte Público Integrado.
 *(antes ARTF · Agencia Reguladora del Transporte Ferroviario)*
 
 **Desarrollador Administrativo Web** — Subdirección de Procesos Administrativos de Construcción
